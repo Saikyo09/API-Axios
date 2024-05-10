@@ -9,7 +9,7 @@ function DataForm() {
   const [editItem, setEditItem] = useState(null)
 
   const API_URL =
-    'https://thriving-syrniki-e5a1a8.netlify.app/.netlify/functions/api'
+    'https://dreamy-choux-072903.netlify.app/.netlify/functions/api'
 
   useEffect(() => {
     axios
