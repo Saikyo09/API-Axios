@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+button, input {
+  margin: 0 20px 0 20px;
+}
+
+li {
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+
+.primary {
+  background-color: #535bf2;
+}
+
+.destructive {
+  background-color: darkred;
+}
+
